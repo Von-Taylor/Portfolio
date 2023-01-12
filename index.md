@@ -6,7 +6,7 @@
 >
 > Nice to meet you!
 
-# Video Links
+# Project Video Links
 ![Vid1](Pics/Vid1.jpeg) \
 - [Link: First Snap Program using Sequences of Instructions](https://youtu.be/0iLhSfZvBAg)
 
