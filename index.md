@@ -1,8 +1,10 @@
 # Introduction
 ![me](Pics/me.jpg)
-> My name is Von Taylor and I am a pursuing Computer Science B.S student in the University of California, San Diego,
-and I aspire to become a software developer, as I have a strong background through my learnings and experience from the 
-Computer Science classes that I have taken. Nice to meet you! 
+> Hello! My name is Von Taylor, I'm pursuing a Bachelor of Science in Computer Science, and I am looking to gain real-world experience in the field through internships! I am passionate about programming, problem-solving, and overall learning new things! 
+>
+> I have experience in Java, Kotlin, Python, C, C++, and ARM Assembly programming languages, with Java being my current most comfortable language. I have an interest in databases, software development, application development, and I like to play video games a lot more than I should. 
+>
+> Nice to meet you!
 
 # Video Links
 ![Vid1](Pics/Vid1.jpeg) \
