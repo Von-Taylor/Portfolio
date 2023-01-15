@@ -10,4 +10,7 @@
 ![Vid1](Pics/Vid1.jpeg) 
 - [Link: First Snap Program using Sequences of Instructions](https://youtu.be/0iLhSfZvBAg)
 
+![Vid2](Pics/Vid2.jpeg)
+- [Link: Second Snap Program using Repeats](https://youtu.be/YgPezMK1dVo)
+
 # Reports
