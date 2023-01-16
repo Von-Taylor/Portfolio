@@ -13,4 +13,7 @@
 ![Vid2](Pics/Vid2.jpeg)
 - [Link: Second Snap Program using Repeats](https://youtu.be/YgPezMK1dVo)
 
+![Vid3](Pics/Vid3.jpeg)
+- [Link: Third Snap Program - Animal Parade](https://youtu.be/pJPGYLmcbvE)
+
 # Reports
