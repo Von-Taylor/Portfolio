@@ -22,4 +22,7 @@
 ![Vid5](Pics/Vid5.jpeg)
 - [Link: Fifth Snap Program - Events](https://youtu.be/plz8m75Q3UY)
 
+![Vid6](Pics/Vid6.jpeg)
+- [Link: Sixth Snap Program - Variables](https://youtu.be/LaI2k8ZaK2Y)
+
 # Reports
