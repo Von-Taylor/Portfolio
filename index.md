@@ -27,6 +27,6 @@
 - [Link: Sixth Snap Program - Variables](https://youtu.be/LaI2k8ZaK2Y)
 
 ![Vid7](Pics/Vid7.jpeg)
-- [Link: Seventh Snap Program - Conditional Loops](https://studio.youtube.com/video/kaxHyTzuVrY/edit)
+- [Link: Seventh Snap Program - Conditional Loops](https://youtu.be/kaxHyTzuVrY)
 
 # Reports
