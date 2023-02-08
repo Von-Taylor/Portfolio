@@ -29,4 +29,7 @@
 ![Vid7](Pics/Vid7.jpeg)
 - [Link: Seventh Snap Program - Conditional Loops](https://youtu.be/kaxHyTzuVrY)
 
+![Vid8](Pics/Vid8.jpeg)
+- [Link: Eighth Snap Program - If Else](https://youtu.be/Bm_SzjAImr0)
+
 # Reports
