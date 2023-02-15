@@ -32,4 +32,7 @@
 ![Vid8](Pics/Vid8.jpeg)
 - [Link: Eighth Snap Program - If Else](https://youtu.be/Bm_SzjAImr0)
 
+![Vid9](Pics/Vid9.jpeg)
+- [Link: Eighth Snap Program - If Else](https://youtu.be/WstmK-HV7qU)
+
 # Reports
