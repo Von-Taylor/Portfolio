@@ -35,4 +35,7 @@
 ![Vid9](Pics/Vid9.jpeg)
 - [Link: Ninth Snap Program - Nested If Else](https://youtu.be/WstmK-HV7qU)
 
+![Vid10](Pics/Vid10.jpeg)
+- [Link: Tenth Snap Program - Compound Conditionals](https://youtu.be/JVtdbRoCvBE)
+
 # Reports
