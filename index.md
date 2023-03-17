@@ -43,4 +43,4 @@
 - [Link: Twelvth Snap Program - Lists](https://youtu.be/kT_CC2XrS9c)
 
 # Others
-- [Course Completion Certificate](Pics/EDS124BR Coursera Certificate.pdf)
+- [Course Completion Certificate](https://github.com/Von-Taylor/Portfolio/blob/main/Pics/EDS124BR%20Coursera%20Certificate.pdf)
