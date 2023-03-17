@@ -42,4 +42,5 @@
 ![Vid12](Pics/Vid12.jpeg)
 - [Link: Twelvth Snap Program - Lists](https://youtu.be/kT_CC2XrS9c)
 
-# Reports
+# Others
+- [Course Completion Certificate](Pics/EDS124BR Coursera Certificate.pdf)
